@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: rgb(254, 254, 254);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    ul {
+
+
+
+        
+    padding: 100px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(137, 137, 203);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 20px;
+}
